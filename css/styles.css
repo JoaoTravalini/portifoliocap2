@@ -238,3 +238,30 @@ body {
     100% {opacity: 1;}
 }
 
+
+
+
+@media (max-width: 1000px) {
+
+.navigation li {
+    display: none;
+}
+
+.navigation li.threeline-icon {
+    display: inline-block;
+}
+
+.capa div {
+    display: block;
+    height: auto;
+}
+
+.profile-pic {
+    width: 100%;
+}
+
+.profile-title {
+    width: 100%;
+}
+
+}
