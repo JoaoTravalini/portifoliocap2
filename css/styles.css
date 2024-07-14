@@ -260,8 +260,23 @@ body {
     width: 100%;
 }
 
+.profile-pic img {
+    margin-top: 0;
+    max-width: 80%;
+}
+
 .profile-title {
+    text-align: center;
     width: 100%;
+}
+
+.profile-title h1 {
+    margin: 20px 20px 0px 20px;
+    font-size: 36px;
+}
+
+.profile-title h2 {
+    margin: 20px 20px 0px 20px;
 }
 
 }
