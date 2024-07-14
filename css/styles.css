@@ -279,4 +279,25 @@ body {
     margin: 20px 20px 0px 20px;
 }
 
+.main {
+    padding: 10px 5% 40px 5%;
+}
+
+.main p {
+    text-align: left;
+    line-height: 30px; 
+}
+
+.caminho li {
+    font-size: 12px;
+}
+
+.cv-pic {
+    float: none;
+    max-width: 100%;
+    margin-right: 0px;
+    border-radius: 280px;
+    margin-bottom: 20px;
+}
+
 }
