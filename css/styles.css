@@ -31,6 +31,20 @@ body {
     font-weight: bold;
 }
 
+.navigation a {
+    color: #F05D5E;
+    text-decoration: none;
+}
+
+.navigation a:hover{
+    color: #F5EBF7;
+    text-decoration: none;
+}
+
+.navigation li.threeline-icon {
+    display: none;
+}
+
 .capa {
     color: #F5EBF7;
 }
