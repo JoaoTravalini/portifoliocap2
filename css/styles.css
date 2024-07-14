@@ -6,6 +6,7 @@ html,body{
 
 body {
     background-color: #0F7173;
+    font-family: "Montserrat", sans-serif;
 }
 
 .navigation {
@@ -36,6 +37,7 @@ body {
 
 .capa span {
     color: #F05D5E; 
+    display: block;
 }
 
 .capa div {
@@ -45,9 +47,26 @@ body {
 
 .profile-pic {
     width: 40%;
+    text-align: center;
+}
+
+.profile-pic img {
+    width: 350px;
+    border-radius: 350px;
+    margin-top: 100px;
 }
 
 .profile-title {
     vertical-align: top;
     width: 60%;
+}
+
+.profile-title h1 {
+    text-transform: uppercase;
+    font-size: 58px;
+    margin-top: 210px;
+}
+
+.profile-title h2 {
+    font-size: 16px;
 }
