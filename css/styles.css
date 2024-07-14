@@ -169,3 +169,8 @@ body {
     text-transform: none;
     margin-top: 0px;
 }
+
+.foto-trabalhos {
+    width: 100%;
+    height: 700px;
+}
