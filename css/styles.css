@@ -1,7 +1,6 @@
 html,body{
     margin: 0px;
     padding: 0px;
-    font-size: 0;
 }
 
 body {
@@ -29,6 +28,7 @@ body {
     padding-left: 30px;
     padding-right: 30px;
     font-size: 16px;
+    font-weight: bold;
 }
 
 .capa {
@@ -58,7 +58,7 @@ body {
 
 .profile-title {
     vertical-align: top;
-    width: 60%;
+    width: 59%;
 }
 
 .profile-title h1 {
@@ -69,4 +69,53 @@ body {
 
 .profile-title h2 {
     font-size: 16px;
+}
+
+.main {
+    padding: 80px 180px 80px 100px;
+}
+
+.main img {
+    float: left;
+    width: 280px;
+    margin-right: 20px;
+    border-radius: 280px;
+    margin-bottom: 20px;
+}
+
+.main h1 {
+    color: #F5EBF7;
+    font-size: normal;
+}
+
+.main h2 {
+    color: #F5EBF7;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: normal;
+    margin-top: 40px;
+}
+
+.main h3 {
+    color: #F05D5E;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.main p {
+    color: #F5EBF7;
+    font-size: 18px;
+    font-weight: 100px;
+    line-height: 24px;
+    text-align: justify;
+}
+
+.caminho {
+    list-style: none;
+    padding-left: 0px;
+    color: #F05D5E;
+}
+
+.caminho li {
+    display: inline-block;
 }
