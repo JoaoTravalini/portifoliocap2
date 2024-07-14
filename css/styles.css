@@ -251,6 +251,11 @@ body {
     display: inline-block;
 }
 
+.navigation li.threeline-icon:hover {
+    color: #F5EBF7;
+    cursor: pointer;
+}
+
 .capa div {
     display: block;
     height: auto;
